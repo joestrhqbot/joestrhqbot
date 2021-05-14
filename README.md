@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a bot 🤖
+  
+Image from [here](https://commons.wikimedia.org/wiki/File:Logo_wikibot.svg) by this awesome [user](https://commons.wikimedia.org/wiki/User:VateGV)
 <!--
 **joestrhqbot/joestrhqbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
